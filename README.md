@@ -56,7 +56,7 @@ The input features include age, BMI, blood pressure, blood sugar, heart rate, di
 
 ## Model Deployment
 - Flask app serves the prediction model with a simple HTML form.  
-- Accessible at: [https://nixonline.pythonanywhere.com/maternalriskpredictor](https://nixonline.pythonanywhere.com/maternalriskpredictor)  
+- Accessible at: [https://nixonline.pythonanywhere.com/](https://nixonline.pythonanywhere.com/)  
 
 ---
 
